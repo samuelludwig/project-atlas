@@ -1,2 +1,3 @@
 # project-atlas
-Living code-map of a given project
+An attempt at producing a modular, extensible API for evaluating software
+projects.
